@@ -1,7 +1,8 @@
-<h1 align="center">👋 Fala aí! Eu sou o Felipe</h1>
+<h1 align="center">Olá,👋 Seja bem-vindo(a) ao meu GitHub!</h1>
 
 <p align="center">
-  Desenvolvedor Front-End focado em criar interfaces modernas e funcionais com React, Next.js e Tailwind.  
+  Desenvolvedor Front-End focado em criar interfaces modernas e funcionais com React, Next.js e Tailwind. E atualmente curso<strong>Sistema de Informação </strong>
+  e aplico meu conhecimento em projetos.
 </p>
 
 ---
