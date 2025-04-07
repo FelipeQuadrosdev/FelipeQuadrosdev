@@ -20,7 +20,7 @@
 
 ### 💼 Projetos em destaque:
 
-- 🔗 [Avanti - E-commerce](https://github.com/FelipeQuadrosdev/avanti)
+- 🔗 [Projeto Tarefas](https://tarefas-topaz.vercel.app/)
 - 🧪 Outros projetos: Veja meus repositórios para mais!
 
 ---
@@ -43,7 +43,8 @@
 ---
 
 ### 🎯 Objetivos de 2025:
-- [x] Criar meu primeiro e-commerce
-- [ ] Conseguir um estágio em tech
+- [x] Conseguir um estágio em tech
 - [ ] Aprimorar inglês
-- [ ] Me aprofundar em animações com React
+- [ ] Me aprofundar Next.js
+- [ ] Me aprofundar no node.js
+
