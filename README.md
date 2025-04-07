@@ -34,16 +34,11 @@
 
 ---
 
-### 🐍 Snake dos commits
-
-![snake gif](https://github.com/FelipeQuadrosdev/FelipeQuadrosdev/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ### 📫 Como me encontrar:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin-aqui)
-[![Gmail](https://img.shields.io/badge/-felipequadros@email.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:felipequadros@email.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipequadros-dev)
+[![Gmail](https://img.shields.io/badge/-felipedequadrosgomes18@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:felipequadros@email.com)
 
 ---
 
