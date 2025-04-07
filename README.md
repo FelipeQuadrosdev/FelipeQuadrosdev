@@ -1,24 +1,54 @@
-![1](https://github.com/user-attachments/assets/0a47d740-bf3e-43b8-a342-af874959f02a)
+<h1 align="center">👋 Fala aí! Eu sou o Felipe</h1>
 
+<p align="center">
+  Desenvolvedor Front-End focado em criar interfaces modernas e funcionais com React, Next.js e Tailwind.  
+</p>
 
+---
 
+### 🚀 Tecnologias que trabalho:
 
-## Eai!Felipe aqui! 😎
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/-Styled--Components-db7092?style=flat-square&logo=styled-components&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+---
 
+### 💼 Projetos em destaque:
 
-→ Sou um desenvolvedor de software dedicado, apaixonado por aprimorar minhas habilidades e permanecer atualizado com as tecnologias mais recentes do mercado.
+- 🔗 [Avanti - E-commerce](https://github.com/FelipeQuadrosdev/avanti)
+- 🧪 Outros projetos: Veja meus repositórios para mais!
 
-→ Sou desenvolvedor Front-End procurando me aperfeiçoar ainda mais buscando aprender novas tecnologias, boas pratica e entendimentos cada vez mais profundos da área.
+---
 
-→ Futuramente pretendo me aperfeiçoar como Full-stack, pois tenho a ambição de atuar em grandes projetos e enxergo que para isso devo entender ambas as partes do produto mesmo que atue no front ou back.
+### 📊 Estatísticas do GitHub
 
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FelipeQuadrosdev&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeQuadrosdev&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
-💻 → Tecnologias!
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-![file_type_js_official_icon_130509](https://github.com/user-attachments/assets/befefb6c-a184-4da7-9bfd-4dfadd003be3)→ Javascript
+---
 
-![typescript_original_logo_icon_146317](https://github.com/user-attachments/assets/895e3e38-0c78-44e8-9dcf-2a72d647a149)→ TypeScript
+### 🐍 Snake dos commits
 
-![react_original_logo_icon_146374](https://github.com/user-attachments/assets/d135f894-055f-406b-a894-0a8f927b2477)→ React JS
- 
+![snake gif](https://github.com/FelipeQuadrosdev/FelipeQuadrosdev/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 📫 Como me encontrar:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin-aqui)
+[![Gmail](https://img.shields.io/badge/-felipequadros@email.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:felipequadros@email.com)
+
+---
+
+### 🎯 Objetivos de 2025:
+- [x] Criar meu primeiro e-commerce
+- [ ] Conseguir um estágio em tech
+- [ ] Aprimorar inglês
+- [ ] Me aprofundar em animações com React
